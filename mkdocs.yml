@@ -1,0 +1,11 @@
+site_name: NLP Notes
+nav:
+    - Home: index.md
+    - About: about.md
+    - Syllabus: syllabus.md
+    - Introduction: introduction.md
+    - Text Processing:
+        - Basics: text/textProcessing.md
+        - Text Normalization: text/tokenization.md
+        - Word Noramlization: text/wordNormalization.md
+        - Automatic Speech Recognition: asr.md
